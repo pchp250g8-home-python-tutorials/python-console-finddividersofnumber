@@ -9,9 +9,7 @@ The program does the following:
       3. If the remainder is zero, the value of the loop parameter is displayed on the screen.
       4. The value of the loop parameter is compared with the final value. If it is less, the loop is executed. Otherwise, it terminates.
       5. The loop parameter variable is incremented by the loop increment. In this example, it is 1.
-  4. The program waits for the "Enter" key to be pressed before terminating.
 Developed in the Spyder integrated environment (in the Microsoft Visual Studio Code editor).
-
 
 FindDividersOfNumber. Занятия по Python. Простой ввод-вывод. Алгоритмы. Консольное приложение.
 Консольное приложение написанное на языке программирования Pascal. 
@@ -24,5 +22,4 @@ FindDividersOfNumber. Занятия по Python. Простой ввод-выв
      3. Если остаток равен нулю, то значение параметра цикла выводится на экран.
      4. Значение параметра цикла сравнивается с конечным. Если оно меньше цикл выполняется. В противном случае - завершается.
      5. Переменная параметра цикла увеличивается на шаг цикла. В данном примере он равен 1.    
-  4. Программа ждёт нажатия клавиши "ввод" перед завершением. 
 Разработано в интегрированной среде Spyder (в редакторе Microsoft Visual Studio Code).
