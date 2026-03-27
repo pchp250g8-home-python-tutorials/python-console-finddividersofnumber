@@ -12,7 +12,7 @@ The program does the following:
 Developed in the Spyder integrated environment (in the Microsoft Visual Studio Code editor).
 
 FindDividersOfNumber. Занятия по Python. Простой ввод-вывод. Алгоритмы. Консольное приложение.
-Консольное приложение написанное на языке программирования Pascal. 
+Консольное приложение написанное на языке программирования Python. 
 Программа делает следующее:
   1. Просит пользователя ввести целое положительное число.
   2. Выводится сообщение:"Число имеет следующие делители:" 
